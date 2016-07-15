@@ -2,6 +2,7 @@
 
 ## Summary
 * Kaggle competition data (jpg file, 79,726 test data, 22,424 train data)
+* https://www.kaggle.com/c/state-farm-distracted-driver-detection
 * The goal is to classify all test data
 * Feature X : 640 * 480 => image processing => 100 * 70
 * Target Y : 10 classes
