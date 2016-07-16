@@ -16,5 +16,18 @@
   * c7: reaching behind
   * c8: hair and makeup
   * c9: talking to passenger
+  
+## Download
+* If you want to test my ipython notebook, you need to download imgs.zip in main directory.
+* https://www.kaggle.com/c/state-farm-distracted-driver-detection
+* Test images of 79,726, Train images of 22,424
+* About 4gb data
+
+## image processing
+* Python Image Library(PIL)
+* image convert to grayscale
+* image resize 640 * 480 -> 120 * 90
+* I think that it is not necessary the edges of images.
+* image cut 120 * 90 -> 100 * 70 
 
 
